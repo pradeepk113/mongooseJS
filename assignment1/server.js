@@ -18,3 +18,4 @@ app.use((req,res,next)=>{
 app.listen(3000,()=>{
     console.log("server is running on port 3K")
 })
+console.log("hello");
